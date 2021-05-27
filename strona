@@ -1,0 +1,30 @@
+<html>
+<head>
+<meta charset="UTF-8" />
+<title>Opel Astra</title>
+<center>
+</head>
+<span style="font-family: Verdana">
+<body bgcolor="#00CCCC">
+<header>
+               Sprzedam Opla
+          </header>
+<center><img src="opel.jpg"/></center>
+          <nav>
+               Dane techniczne
+<center><img src="Zrzutekranu.png"/></center>
+          </nav>
+          <section>
+               <article>
+                    Wyposażenie
+               </article>
+<center><img src="Zrzut.png"/></center>
+          </section>
+          <aside>
+               Kontakt
+345 234 895
+          </aside>
+</span>
+</center>
+</body>
+</html>
